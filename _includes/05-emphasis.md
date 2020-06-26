@@ -1,9 +1,9 @@
 __Coding Languages__
-_ GW-Basic_
-_ Pascal_
-_ C, C++, C#_
-_ Fortran 77/90_
-_ Python
+_GW-Basic_
+_Pascal_
+_C, C++, C#_
+_Fortran 77/90_
+_Python_
 __Experience Varies__
 __Recent:__
-_ C, C#, C++, R, Python_
+_C, C#, C++, R, Python_
