@@ -1,1 +1,14 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Coding Languages__
+_ GW-Basic
+_ Pascal
+_ C
+_ Fortran 77/90
+_ C++
+_ Python
+__Scripting
+_ Bash
+__Math programs
+_ Matlab
+_ Mathematica
+_ Mathcad
+__Experience varies
